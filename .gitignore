@@ -1,0 +1,14 @@
+# Environnement virtuel
+venv/
+.venv/
+env/
+
+# Python temporaire
+__pycache__/
+*.py[cod]
+
+# Données (CSV)
+*.csv
+
+# Système
+.DS_Store
